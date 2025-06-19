@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "D3 Teknik Elektronika",
+        "year": "2022 - 2025",
+        "description": "Mahasiswa yang aktif berorganisasi dan telah berpartisipasi dalam beberapa perlombaan akademis maupun non akademis.<br>IPK 3.63 dari 4.00.<br>Mata Kuliah Relevan : PLC, Instrumentasi, Keselamatan dan Kesehatan Kerja."
+    },
+    {
+        "university": "SMKN 4 Semarang",
+		"logo": "images/logosmk4.png",
+        "major": "Electronics Engineering",
+        "year": "2019 - 2022",
+        "description": "Siswa yang aktif berorganisasi dan memiliki semangat belajar yang tinggi.<br>Nilai 86 dari 100."
+    }
+]

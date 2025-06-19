@@ -1,0 +1,30 @@
+[
+    {
+        "company": "PT. JASA TEKNIK INDONESIA",
+		"logo":"images/JASTEKINDO.png",
+        "position": "Magang - Asisten Ahli Keselamatan dan Kesehatan Kerja (K3)",
+        "year": "September 2024 - Januari 2025",
+        "description": "•Berkontribusi sebagai Asisten Ahli K3, membantu para Ahli K3 dalam melaksanakan tanggung jawab untuk menerapkan K3 dalam linkungan industri.<br>•Membantu dalam penyusunan Job Safety Analysis (JSA), dan laporan hasil pemeriksaan dan pengujian.<br>•Berperan dalam monitoring penggunaan APD, kepatuhan terhadap SOP keselamatan kerja, dan sosialisasi K3 di lingkungan industry."
+    },
+    {
+        "company": "Capital Market Community - Politeknik Negeri Semarang",
+		"logo":"images/cmcpoliness.png",
+        "position": "Anggota - Staff Divisi Research and Education Department",
+        "year": "January 2023 - Januari 2024",
+        "description": "•Aktif berpartisipasi dalam mengedukasi internal CMC Polines terkait Pasar Modal, memperoleh penghargaan Best Member of The Month: October.<br>•Aktif berpartisipasi dalam kompetisi Trading Pasar Modal.<br>•Menjabat sebagai Ketua Pelaksana dalam Program Kerja [Upgrading Investor]. Bertanggung jawab dalam perencanaan, koordinasi tim, pengelolaan anggaran,  serta menjalin kerja sama dengan mitra dan pembicara.<br>•Berkolaborasi secara efektif dengan anggota lainnya, memperoleh penghargaan Best Division 2023"
+    },
+	{
+        "company": "CV. TEKUN KARYA",
+		"logo":"images/tekunkarya.png",
+        "position": "Magang - Asisten Teknisi Pendingin",
+        "year": "Mei 2021 - Juni 2021",
+        "description": "Membantu teknisi dalam instalasi, perawatan, dan perbaikan sistem pendingin seperti AC split, chiller, dan Air Handling Unit"
+    },
+    {
+        "company": "Palang Merah Remaja - SMKN 4 Semarang",
+		"logo":"images/Logopmr.png",
+        "position": "Anggota aktif",
+        "year": "2019-2022",
+        "description": "Anggota aktif Palang Merah Remaja (PMR) yang berpartisipasi dalam kegiatan sosial, pelatihan pertolongan pertama, donor darah, dan edukasi kesehatan. Terbiasa bekerja dalam tim, sigap, serta memiliki kepedulian tinggi terhadap kemanusiaan dan lingkungan sekitar."
+    }
+]

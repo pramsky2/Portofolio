@@ -1,0 +1,27 @@
+{
+    "name": "Aji Pramono - Mahasiswa aktif Politeknik Negeri Semarang",
+    "description": "Mahasiswa aktif jurusan Teknik Elektro yang memiliki minat dan keahlian dalam bidang instrumentasi dan kontrol, khususnya pemrograman dan pengoperasian PLC. Berpengalaman dalam menerapkan pengetahuan teknik melalui kegiatan magang di bidang Keselamatan dan Kesehatan Kerja (K3), dengan fokus pada sistem monitoring dan otomatisasi peralatan industri. Aktif dalam organisasi kemahasiswaan yang mengasah kemampuan kepemimpinan, komunikasi, dan kerja sama tim. Memiliki etos kerja yang tinggi, disiplin, dan siap berkontribusi dalam pengembangan teknologi industri yang aman dan efisien.",
+    "profileImage": "images/ajiokeoke.jpg",
+    "email": "ajipramono754@gmail.com",
+    "phone": "+62 851-6357-0754",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/aji-pramono"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV Aji 6-2025.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+    {"name": "Bahasa Asing", "icon": "fas fa-language", "level": 70},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 65},
+    {"name": "Wiring Instrument", "icon": "fas fa-pallet", "level": 80},
+    {"name": "Safety Work Environment", "icon": "fas fa-tools", "level": 70},
+    {"name": "Pasar Modal", "icon": "fas fa-chart-bar", "level": 70}
+
+    ]
+}

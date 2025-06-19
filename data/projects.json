@@ -1,0 +1,41 @@
+[
+    {
+        "title": "World Science, Environtment, and Engineering Competition 2025 Online Competition",
+        "year": "2025",
+        "partner": "Indonesian Young Scienctist Association",
+        "role": "SILVER MEDAL",
+        "description": "Berkompetisi dalam Kompetisi Engineering berskala internasional yang diikuti oleh peserta dan juri dari berbagai mancanegara secara online",
+        "image": "images/sertifwseecmedal.jpg"
+    },
+    {
+        "title": "Indonesia International IoT Olympiad 2024 Online Competition",
+        "year": "2024",
+        "partner": "Indonesian Young Scienctist Association",
+        "role": "GOLD MEDAL",
+        "description": "Berkompetisi dalam Olimpiade Internet of Things berskala internasional yang diikuti oleh peserta dan juri dari berbagai mancanegara secara online",
+        "image": "images/i3o2023.jpg"
+    },
+    {
+        "title": "National Trading Competition",
+        "year": "2023",
+        "partner": "KSMPS Golden UINSU",
+        "role": "Juara 2",
+        "description": "Berkompetisi dalam perlombaan trading nasional secara online yang diikuti oleh berbagai partisipan dari seluruh universitas di Indonesia",
+        "image": "images/Aji pramono-juara.png"
+    },
+    {
+        "title": "Sistem Monitoring dan Kontroling Level Air berbasis ESP32 terintegrasi Internet of Things",
+        "year": "2024",
+        "role": "Project Lead",
+        "description": "Mengontrol serta memantau level air pada tangki dengan ESP32 sebagai pemroses utama dan menampilkannya lewat smarthphone berbasis Internet of Things",
+        "image": "images/projectsmt4.jpg"
+    },
+   {
+        "title": "Sistem Kontrolling Pengisian dan Pengosongan level air berbasis Programmable Logic Controller (PLC) dan Human Machine Interface (HMI)",
+        "year": "2024",
+        "role": "Project Lead",
+        "description": "Sistem pengontrol dan Monitoring level tangki air berbasis PLC dan HMI",
+        "image": "images/wlcplc.jpg"
+    }
+
+]
